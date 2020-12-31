@@ -7,30 +7,21 @@ My name is Adriano Heller Mylla, I'm 37 years old, I'm a Developer from Brazil, 
 I work as a Engineer for mainly Technoizz, my company, and Banco do Brasil, one of the biggest banks in the world and with one of the most vast and big technology Mainframe operational system.
 
 ## My Expertises:
+![Image](https://github.com/AdrianoHeller/AdrianoHeller/blob/master/A4%20-%209.png "Image")
 
-- BackEnd development
+## My Hobbies
 
-- FrontEnd development
+:musical_keyboard: Play the Piano
 
-- DevOps
+:musical_drums: Playing the Drums
 
-- DB
+:singer_medium_light_skin_tone: (Try to) Sing
 
-- Blockchain
+:musical_score: Reading Music Charts
 
-- Prototyping
+:headphones: Music all the time!
 
-- 3D Sculpting and Rendering
-
-## My Hobbies and Passion
-
-- :musical_keyboard: Piano
-
-- :musical_drums: Drums
-
-- :singer_medium_light_skin_tone: Sing
-
-- :musical_guitar: Guitar
+:skateboard: Skateboarding!
 
 <!--
 **AdrianoHeller/AdrianoHeller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -13,9 +13,7 @@ I work as a Engineer for mainly Technoizz, my company, and Banco do Brasil, one 
 
 :musical_keyboard: Play the Piano
 
-:musical_drums: Playing the Drums
-
-:singer_medium_light_skin_tone: (Try to) Sing
+:drum: Playing the Drums
 
 :musical_score: Reading Music Charts
 

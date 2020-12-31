@@ -1,6 +1,6 @@
 # About me:
 
-[![Header](https://raw.githubusercontent.com/AdrianoHeller/<OWNER>/<OWNER>/readme_header.png "Header")](https://photos.google.com/photo/AF1QipNx_oThmNF9UNhTBFXdyZ7RHYx287rCIh0wZOeM)
+:octocat:
 
 
 My name is Adriano Heller Mylla, I'm 37 years old, I'm a Developer from Brazil, most specifically from the Southern part of our country, with is Cold and has tons of European Descendents. I current live in my hometown, a stunning city called Curitiba, which is famous for it's beer, food and, most of all, the Rock'n Roll cultural scene.
@@ -24,13 +24,13 @@ I work as a Engineer for mainly Technoizz, my company, and Banco do Brasil, one 
 
 ## My Hobbies and Passion
 
-- Piano
+- :musical_keyboard: Piano
 
-- Drums
+- :musical_drums: Drums
 
-- Sing
+- :singer_medium_light_skin_tone: Sing
 
-- Guitar
+- :musical_guitar: Guitar
 
 <!--
 **AdrianoHeller/AdrianoHeller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

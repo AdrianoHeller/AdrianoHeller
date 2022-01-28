@@ -16,7 +16,7 @@ My name is Adriano Heller Mylla, I'm 38 years old, I'm a Developer from Brazil, 
 - Infra as Code - Terraform
 - Config Management - Ansible
 - Monitoring - SonarQube / Portainer / Prometheus / Grafana
-- Backend - Node.js / Typescript / Golang
+- Backend - Node.js / Typescript / C / C++ / Golang
 - Frontend - React.js / Next.js / Redux / Styled Components
 - Extra Spec - GraphQL
 - Databases - Mongodb(on premise/atlas) / PostgreSQL / MySQL / SQLite

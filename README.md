@@ -15,13 +15,14 @@ My name is Adriano Heller Mylla, I'm 38 years old, I'm a Developer from Brazil, 
 - Cloud Providers - Azure / AWS
 - Infra as Code - Terraform
 - Config Management - Ansible
-- Monitoring - SonarQube / Portainer / Prometheus / Grafana
+- Monitoring - Portainer / Prometheus / Grafana
 - Backend - Node.js / Typescript / C / C++ / Golang
 - Frontend - React.js / Next.js / Redux / Styled Components
 - Extra Spec - GraphQL
 - Databases - Mongodb(on premise/atlas) / PostgreSQL / MySQL / SQLite
 - Caching Solutions - Redis
 - Queue: RabbitMQ
+- Code quality monitoring: SonarQube
 
 ## My Expertises:
 ![Image](https://github.com/AdrianoHeller/AdrianoHeller/blob/master/A4%20-%209.png "Image")

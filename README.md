@@ -3,7 +3,7 @@
 ![Header](https://github.com/AdrianoHeller/AdrianoHeller/blob/master/A4%20-%208.png "Header")
 
 
-My name is Adriano Heller Mylla, I'm 38 years old, I'm a Developer from Brazil, most specifically from the Southern part of our country, which is Cold and has tons of European Descendents. I current live in my hometown, a stunning city called Curitiba, which is famous for it's beer, food and, most of all, our Rock'n Roll cultural scene. Currently working as DevOps Techlead consultant, and Backend software engineer.
+My name is Adriano Heller Mylla, I'm 39 years old, I'm a Developer from Brazil, most specifically from the Southern part of our country, which is Cold and has tons of European Descendents. I current live in my hometown, a stunning city called Curitiba, which is famous for it's beer, food and, most of all, our Rock'n Roll cultural scene. Currently working as Senior DevOps Engineer at ElectroNeek and Software Engineer at Quidd.
 
 ## Main skills: 
 - OS - Centos / Debian / Ubuntu 
@@ -17,7 +17,7 @@ My name is Adriano Heller Mylla, I'm 38 years old, I'm a Developer from Brazil, 
 - Infra as Code - Terraform
 - Config Management - Ansible
 - Monitoring - Portainer / Prometheus / Grafana
-- Backend - Node.js(Typescript) / Rust
+- Backend - Node.js(Typescript) / Rust / Golang
 - Frontend - React.js(Typescript) / Next.js(Typescript)
 - Extra Spec - GraphQL
 - Databases - MongoDB(on prem / Atlas) / PostgreSQL / MySQL / SQLite

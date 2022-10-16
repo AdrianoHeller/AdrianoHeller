@@ -7,32 +7,11 @@ My name is Adriano Heller Mylla, I'm 39 years old, I'm a Developer from Brazil, 
 
 ## Main skills: 
 - OS - Centos / Debian / Ubuntu 
-- Automation Server - Jenkins
-- Container tools - Docker(Compose)
-- Container orchestration - K8s / Swarm
-- Kubernetes management - Rancher
-- Container Registry - Azure Container Registry / Nexus / Docker hub / Elastic Container Registry 
+- Container orchestration - K8s / ECS
+- Container Registry - ECR
 - Webserver/Reverse proxy - Nginx / Traefik / Caddy
-- Cloud Providers - Azure / AWS
-- Infra as Code - Terraform
-- Config Management - Ansible
-- Monitoring - Portainer / Prometheus / Grafana
+- Cloud Providers - AWS
+- Monitoring - Portainer / Grafana
 - Backend - Node.js(Typescript) / Rust / Golang
-- Frontend - React.js(Typescript) / Next.js(Typescript)
-- Extra Spec - GraphQL
 - Databases - MongoDB(on prem / Atlas) / PostgreSQL / MySQL / SQLite
-- Queue/Message brokers: RabbitMQ / SQS / Redis
-- Code quality monitoring: SonarQube
-
-## My Hobbies
-
-:musical_keyboard: Play the Piano
-
-:drum: Playing the Drums
-
-:musical_score: Reading Music Charts
-
-:headphones: Music all the time!
-
-:skateboard: Skateboarding!
-
+- Queue/Message brokers: SQS / Redis
